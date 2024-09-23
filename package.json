@@ -4,7 +4,7 @@
   "repository": "https://github.com/electron/electron",
   "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
   "devDependencies": {
-    "@electron/docs-parser": "^0.12.1",
+    "@electron/docs-parser": "^2.0.0",
     "@electron/typescript-definitions": "^8.9.4",
     "@octokit/auth-app": "^2.10.0",
     "@octokit/rest": "^18.0.3",
@@ -56,7 +56,7 @@
     "minimist": "^1.2.5",
     "nugget": "^2.0.1",
     "null-loader": "^4.0.0",
-    "pre-flight": "^1.1.0",
+    "pre-flight": "^2.0.0",
     "remark-cli": "^4.0.0",
     "remark-preset-lint-markdown-style-guide": "^2.1.1",
     "request": "^2.88.2",
